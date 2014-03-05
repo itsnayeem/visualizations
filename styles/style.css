@@ -1,0 +1,13 @@
+.span100 {
+    width: 100%;
+}
+
+.span33 {
+    width: 33%;
+    float: left;
+}
+
+.span50 {
+    width: 50%;
+    float: left;
+}
